@@ -10,3 +10,6 @@
 */.gitignore
 .html
 */test-output/*
+target/*
+target
+target/
