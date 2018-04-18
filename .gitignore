@@ -1,0 +1,12 @@
+.idea
+.project
+.settings/
+*/.classpath
+*.log
+*/target/*
+*/target/
+*.iml
+.idea/
+*/.gitignore
+.html
+*/test-output/*
